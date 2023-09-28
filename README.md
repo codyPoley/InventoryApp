@@ -9,7 +9,7 @@ An android application created to allow the user to keep track of their inventor
 ### Usage
 To run the application open it in android studio. <br>
 Run the application and enter in username and password. <br>
-Than click the create account button. <br>
+Then click the create account button. <br>
 
 ![Screenshot 2023-09-28 123913](https://github.com/codyPoley/InventoryApp/assets/145494382/c3fed256-93a3-4583-b55c-dccb6d7b74c9) <br>
 
